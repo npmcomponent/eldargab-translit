@@ -1,18 +1,11 @@
 {
-  "name": "translit",
-  "version": "0.0.1",
+  "name": "eldargab-translit",
   "description": "Text transliteration util",
+  "version": "0.0.1",
   "keywords": [
     "transliterate",
     "translit"
   ],
-  "author": "Eldar Gabdullin <eldargab@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/eldargab/translit"
-  },
-  "license": "MIT",
-  "scripts": {
-    "test": "node test.js"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
